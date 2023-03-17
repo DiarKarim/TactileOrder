@@ -1,0 +1,11 @@
+,ParticipantID,Trial,FirstChannel,Response,Correct,InterStimInterval
+0,Ptx_221,0,0,0,Wrong,0.5
+1,Ptx_221,1,1,1,Right,0.5
+2,Ptx_221,2,0,1,Right,0.5
+3,Ptx_221,3,1,1,Right,0.2
+4,Ptx_221,4,1,1,Right,0.2
+5,Ptx_221,5,1,1,Right,0.1
+6,Ptx_221,6,0,0,Wrong,0.08
+7,Ptx_221,7,0,0,Wrong,0.04
+8,Ptx_221,8,0,1,Right,0.08
+9,Ptx_221,9,1,1,Right,0.08
